@@ -13,8 +13,8 @@
 	"FacebookNative"    :  "302513874635458_302517624635083",
 	
 	
-	"Yodo1Advert" : "",
-	"YodoAdmobID" : ""
+	"Yodo1Advert" : "eOOfssFeSWh",
+	"YodoAdmobID" : "ca-app-pub-5784311004955543~5315072489"
 
   }
 
